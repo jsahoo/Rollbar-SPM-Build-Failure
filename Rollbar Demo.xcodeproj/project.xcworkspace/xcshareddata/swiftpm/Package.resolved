@@ -2,12 +2,12 @@
   "object": {
     "pins": [
       {
-        "package": "Rollbar",
+        "package": "RollbarSDK",
         "repositoryURL": "https://github.com/rollbar/rollbar-ios",
         "state": {
-          "branch": null,
-          "revision": "93262f309422e4c716e84f39d8df63f79b262756",
-          "version": "1.12.10"
+          "branch": "v2.0.0-alpha13",
+          "revision": "e6a090c60b2fd3d0eaaccce2e085f9017c702f7b",
+          "version": null
         }
       }
     ]
